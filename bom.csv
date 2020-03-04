@@ -1,11 +1,11 @@
 Reference, Quantity, Value, Footprint, Datasheet, Mouser, Purpose, Digikey, Part Number, Notes
-A1 ,1,"Arduino_Nano_v3.x","Module:Arduino_Nano","http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf","","","https://www.digikey.ca/product-detail/en/sullins-connector-solutions/PPTC151LFBN-RC/S7013-ND/810153","","Digikey link is for female headers to connect to arduino, get 2 if we don't have any lying around"
-C1 C3 C5 ,3,"0.1u","Capacitor_SMD:C_0603_1608Metric","~","","","https://www.digikey.com/product-detail/en/kemet/C0603C104M5RACTU/399-7845-1-ND/3471568","C0603C104M5RACTU",""
-C2 C4 C6 ,3,"47u","Capacitor_SMD:CP_Elec_6.3x5.4_Nichicon","~","","","https://www.digikey.com/product-detail/en/nichicon/UWT1H470MCL1GS/493-2225-1-ND/590200","UWT1H470MCL1GS",""
-H1 H2 H3 H4 H5 H6 ,6,"MountingHole_Pad","MountingHole:MountingHole_3.2mm_M3_Pad","~"
-J1 J4 J5 J6 ,4,"Conn_01x02","TerminalBlock_Altech:Altech_AK300_1x02_P5.00mm_45-Degree","~","https://www.mouser.ca/ProductDetail/Altech/30602?qs=sGAEpiMZZMvlX3nhDDO4AL25%252B41q1QHAiP%252BMig2GC%2FM%3D","POWER IN","","",""
-J2 J3 ,2,"Conn_01x15","Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical","~","","","https://www.digikey.ca/product-detail/en/adam-tech/PH1-15-UA/2057-PH1-15-UA-ND/9830359","",""
-R2 R1 R4 R3 R6 R5 ,6,"0.3R","Resistor_SMD:R_1206_3216Metric","~","","","https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CSR1206FKR300/CSR1206FKR300CT-ND/1788117","CSR1206FKR300",""
-RV1 ,1,"R_POT","Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical","~","","","https://www.digikey.ca/product-detail/en/bourns-inc/3266W-1-103LF/3266W-103LF-ND/1087907","",""
-TP1 ,1,"TestPoint","TestPoint:TestPoint_Pad_D2.0mm","~"
-U1 U2 U3 ,3,"DRV8870DDA","Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias","http://www.ti.com/lit/ds/symlink/drv8870.pdf","","","https://www.digikey.com/product-detail/en/texas-instruments/DRV8870DDAR/296-42660-1-ND/5455925","",""
+A1 ,1,Arduino_Nano_v3.x,Module:Arduino_Nano,http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf,,,https://www.digikey.ca/product-detail/en/sullins-connector-solutions/PPTC151LFBN-RC/S7013-ND/810153,,"Digikey link is for female headers to connect to arduino, get 2 if we don't have any lying around"
+C1 C3 C5 ,3,0.1u,Capacitor_SMD:C_0603_1608Metric,~,,,https://www.digikey.com/product-detail/en/kemet/C0603C104M5RACTU/399-7845-1-ND/3471568,C0603C104M5RACTU,
+C2 C4 C6 ,3,47u,Capacitor_SMD:CP_Elec_6.3x5.4_Nichicon,~,,,https://www.digikey.com/product-detail/en/nichicon/UWT1H470MCL1GS/493-2225-1-ND/590200,UWT1H470MCL1GS,
+H1 H2 H3 H4 H5 H6 ,6,MountingHole_Pad,MountingHole:MountingHole_3.2mm_M3_Pad,~,,,,,
+J1 J4 J5 J6 ,4,Conn_01x02,TerminalBlock_Altech:Altech_AK300_1x02_P5.00mm_45-Degree,~,https://www.mouser.ca/ProductDetail/Altech/30602?qs=sGAEpiMZZMvlX3nhDDO4AL25%252B41q1QHAiP%252BMig2GC%2FM%3D,POWER IN,,,
+J2 J3 ,2,Conn_01x15,Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical,~,,,https://www.digikey.ca/product-detail/en/adam-tech/PH1-15-UA/2057-PH1-15-UA-ND/9830359,,
+R2 R1 R4 R3 R6 R5 ,6,0.3R,Resistor_SMD:R_1206_3216Metric,~,,,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CSR1206FKR300/CSR1206FKR300CT-ND/1788117,CSR1206FKR300,
+RV1 ,1,R_POT,Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical,~,,,https://www.digikey.ca/product-detail/en/bourns-inc/3266W-1-103LF/3266W-103LF-ND/1087907,,
+TP1 ,1,TestPoint,TestPoint:TestPoint_Pad_D2.0mm,~,,,,,
+U1 U2 U3 ,3,DRV8870DDA,Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias,http://www.ti.com/lit/ds/symlink/drv8870.pdf,,,https://www.digikey.com/product-detail/en/texas-instruments/DRV8870DDAR/296-42660-1-ND/5455925,,
