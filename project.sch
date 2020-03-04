@@ -22,6 +22,7 @@ F 1 "Conn_01x02" H 7780 4146 50  0000 L CNN
 F 2 "TerminalBlock_Altech:Altech_AK300_1x02_P5.00mm_45-Degree" H 7700 4200 50  0001 C CNN
 F 3 "~" H 7700 4200 50  0001 C CNN
 F 4 "POWER IN" H 7780 4055 50  0000 L CNN "Purpose"
+F 5 "https://www.mouser.ca/ProductDetail/Altech/30602?qs=sGAEpiMZZMvlX3nhDDO4AL25%252B41q1QHAiP%252BMig2GC%2FM%3D" H 7700 4200 50  0001 C CNN "Mouser"
 	1    7700 4200
 	1    0    0    -1  
 $EndComp
@@ -106,6 +107,7 @@ F 1 "Conn_01x02" H 7780 2946 50  0000 L CNN
 F 2 "TerminalBlock_Altech:Altech_AK300_1x02_P5.00mm_45-Degree" H 7700 3000 50  0001 C CNN
 F 3 "~" H 7700 3000 50  0001 C CNN
 F 4 "COIL X OUT" H 7780 2855 50  0000 L CNN "Purpose"
+F 5 "https://www.mouser.ca/ProductDetail/Altech/30602?qs=sGAEpiMZZMvlX3nhDDO4AL25%252B41q1QHAiP%252BMig2GC%2FM%3D" H 7700 3000 50  0001 C CNN "Mouser"
 	1    7700 3000
 	1    0    0    -1  
 $EndComp
@@ -125,6 +127,7 @@ F 0 "RV1" H 6781 1896 50  0000 R CNN
 F 1 "R_POT" H 6781 1805 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical" H 6850 1850 50  0001 C CNN
 F 3 "~" H 6850 1850 50  0001 C CNN
+F 4 "https://www.digikey.ca/product-detail/en/bourns-inc/3266W-1-103LF/3266W-103LF-ND/1087907" H 6850 1850 50  0001 C CNN "Digikey"
 	1    6850 1850
 	1    0    0    -1  
 $EndComp
@@ -178,6 +181,7 @@ F 1 "0.3R" H 2120 2350 50  0000 L CNN
 F 2 "Resistor_SMD:R_1206_3216Metric" V 1980 2350 50  0001 C CNN
 F 3 "~" H 2050 2350 50  0001 C CNN
 F 4 "CSR1206FKR300" H 2120 2259 50  0000 L CNN "Part Number"
+F 5 "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CSR1206FKR300/CSR1206FKR300CT-ND/1788117" H 2050 2350 50  0001 C CNN "Digikey"
 	1    2050 2350
 	1    0    0    -1  
 $EndComp
@@ -189,6 +193,7 @@ F 0 "R1" H 1820 2396 50  0000 L CNN
 F 1 "0.3R" H 1820 2305 50  0000 L CNN
 F 2 "Resistor_SMD:R_1206_3216Metric" V 1680 2350 50  0001 C CNN
 F 3 "~" H 1750 2350 50  0001 C CNN
+F 4 "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CSR1206FKR300/CSR1206FKR300CT-ND/1788117" H 1750 2350 50  0001 C CNN "Digikey"
 	1    1750 2350
 	1    0    0    -1  
 $EndComp
@@ -200,6 +205,7 @@ F 0 "U1" H 1500 2281 50  0000 C CNN
 F 1 "DRV8870DDA" H 1500 2190 50  0000 C CNN
 F 2 "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias" H 1600 1700 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/drv8870.pdf" H 1250 2150 50  0001 C CNN
+F 4 "https://www.digikey.com/product-detail/en/texas-instruments/DRV8870DDAR/296-42660-1-ND/5455925" H 1500 1800 50  0001 C CNN "Digikey"
 	1    1500 1800
 	1    0    0    -1  
 $EndComp
@@ -253,6 +259,7 @@ F 1 "Conn_01x02" H 7780 3246 50  0000 L CNN
 F 2 "TerminalBlock_Altech:Altech_AK300_1x02_P5.00mm_45-Degree" H 7700 3300 50  0001 C CNN
 F 3 "~" H 7700 3300 50  0001 C CNN
 F 4 "COIL Y OUT" H 7780 3155 50  0000 L CNN "Purpose"
+F 5 "https://www.mouser.ca/ProductDetail/Altech/30602?qs=sGAEpiMZZMvlX3nhDDO4AL25%252B41q1QHAiP%252BMig2GC%2FM%3D" H 7700 3300 50  0001 C CNN "Mouser"
 	1    7700 3300
 	1    0    0    -1  
 $EndComp
@@ -265,6 +272,7 @@ F 1 "Conn_01x02" H 7780 3546 50  0000 L CNN
 F 2 "TerminalBlock_Altech:Altech_AK300_1x02_P5.00mm_45-Degree" H 7700 3600 50  0001 C CNN
 F 3 "~" H 7700 3600 50  0001 C CNN
 F 4 "COIL Z OUT" H 7780 3455 50  0000 L CNN "Purpose"
+F 5 "https://www.mouser.ca/ProductDetail/Altech/30602?qs=sGAEpiMZZMvlX3nhDDO4AL25%252B41q1QHAiP%252BMig2GC%2FM%3D" H 7700 3600 50  0001 C CNN "Mouser"
 	1    7700 3600
 	1    0    0    -1  
 $EndComp
@@ -308,6 +316,7 @@ F 1 "0.3R" H 4020 2350 50  0000 L CNN
 F 2 "Resistor_SMD:R_1206_3216Metric" V 3880 2350 50  0001 C CNN
 F 3 "~" H 3950 2350 50  0001 C CNN
 F 4 "CSR1206FKR300" H 4020 2259 50  0000 L CNN "Part Number"
+F 5 "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CSR1206FKR300/CSR1206FKR300CT-ND/1788117" H 3950 2350 50  0001 C CNN "Digikey"
 	1    3950 2350
 	1    0    0    -1  
 $EndComp
@@ -319,6 +328,7 @@ F 0 "R3" H 3720 2396 50  0000 L CNN
 F 1 "0.3R" H 3720 2305 50  0000 L CNN
 F 2 "Resistor_SMD:R_1206_3216Metric" V 3580 2350 50  0001 C CNN
 F 3 "~" H 3650 2350 50  0001 C CNN
+F 4 "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CSR1206FKR300/CSR1206FKR300CT-ND/1788117" H 3650 2350 50  0001 C CNN "Digikey"
 	1    3650 2350
 	1    0    0    -1  
 $EndComp
@@ -330,6 +340,7 @@ F 0 "U2" H 3400 2281 50  0000 C CNN
 F 1 "DRV8870DDA" H 3400 2190 50  0000 C CNN
 F 2 "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias" H 3500 1700 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/drv8870.pdf" H 3150 2150 50  0001 C CNN
+F 4 "https://www.digikey.com/product-detail/en/texas-instruments/DRV8870DDAR/296-42660-1-ND/5455925" H 3400 1800 50  0001 C CNN "Digikey"
 	1    3400 1800
 	1    0    0    -1  
 $EndComp
@@ -402,6 +413,7 @@ F 1 "0.3R" H 5820 2350 50  0000 L CNN
 F 2 "Resistor_SMD:R_1206_3216Metric" V 5680 2350 50  0001 C CNN
 F 3 "~" H 5750 2350 50  0001 C CNN
 F 4 "CSR1206FKR300" H 5820 2259 50  0000 L CNN "Part Number"
+F 5 "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CSR1206FKR300/CSR1206FKR300CT-ND/1788117" H 5750 2350 50  0001 C CNN "Digikey"
 	1    5750 2350
 	1    0    0    -1  
 $EndComp
@@ -413,6 +425,7 @@ F 0 "R5" H 5520 2396 50  0000 L CNN
 F 1 "0.3R" H 5520 2305 50  0000 L CNN
 F 2 "Resistor_SMD:R_1206_3216Metric" V 5380 2350 50  0001 C CNN
 F 3 "~" H 5450 2350 50  0001 C CNN
+F 4 "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CSR1206FKR300/CSR1206FKR300CT-ND/1788117" H 5450 2350 50  0001 C CNN "Digikey"
 	1    5450 2350
 	1    0    0    -1  
 $EndComp
@@ -424,6 +437,7 @@ F 0 "U3" H 5200 2281 50  0000 C CNN
 F 1 "DRV8870DDA" H 5200 2190 50  0000 C CNN
 F 2 "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias" H 5300 1700 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/drv8870.pdf" H 4950 2150 50  0001 C CNN
+F 4 "https://www.digikey.com/product-detail/en/texas-instruments/DRV8870DDAR/296-42660-1-ND/5455925" H 5200 1800 50  0001 C CNN "Digikey"
 	1    5200 1800
 	1    0    0    -1  
 $EndComp
@@ -476,6 +490,8 @@ F 0 "A1" H 2200 4111 50  0000 C CNN
 F 1 "Arduino_Nano_v3.x" H 2200 4020 50  0000 C CNN
 F 2 "Module:Arduino_Nano" H 2200 5200 50  0001 C CIN
 F 3 "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf" H 2200 5200 50  0001 C CNN
+F 4 "https://www.digikey.ca/product-detail/en/sullins-connector-solutions/PPTC151LFBN-RC/S7013-ND/810153" H 2200 5200 50  0001 C CNN "Digikey"
+F 5 "Digikey link is for female headers to connect to arduino, get 2 if we don't have any lying around" H 2200 5200 50  0001 C CNN "Notes"
 	1    2200 5200
 	1    0    0    -1  
 $EndComp
@@ -494,6 +510,7 @@ F 1 "0.1u" H 1965 1155 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 1888 1050 50  0001 C CNN
 F 3 "~" H 1850 1200 50  0001 C CNN
 F 4 "C0603C104M5RACTU" H 1850 1200 50  0001 C CNN "Part Number"
+F 5 "https://www.digikey.com/product-detail/en/kemet/C0603C104M5RACTU/399-7845-1-ND/3471568" H 1850 1200 50  0001 C CNN "Digikey"
 	1    1850 1200
 	1    0    0    -1  
 $EndComp
@@ -547,6 +564,7 @@ F 1 "0.1u" H 3865 1155 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 3788 1050 50  0001 C CNN
 F 3 "" H 3750 1200 50  0001 C CNN
 F 4 "C0603C104M5RACTU" H 3750 1200 50  0001 C CNN "Part Number"
+F 5 "https://www.digikey.com/product-detail/en/kemet/C0603C104M5RACTU/399-7845-1-ND/3471568" H 3750 1200 50  0001 C CNN "Digikey"
 	1    3750 1200
 	1    0    0    -1  
 $EndComp
@@ -600,6 +618,7 @@ F 1 "0.1u" H 5665 1155 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 5588 1050 50  0001 C CNN
 F 3 "~" H 5550 1200 50  0001 C CNN
 F 4 "C0603C104M5RACTU" H 5550 1200 50  0001 C CNN "Part Number"
+F 5 "https://www.digikey.com/product-detail/en/kemet/C0603C104M5RACTU/399-7845-1-ND/3471568" H 5550 1200 50  0001 C CNN "Digikey"
 	1    5550 1200
 	1    0    0    -1  
 $EndComp
@@ -653,6 +672,7 @@ F 0 "J2" H 3930 5242 50  0000 L CNN
 F 1 "Conn_01x15" H 3930 5151 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 3850 5200 50  0001 C CNN
 F 3 "~" H 3850 5200 50  0001 C CNN
+F 4 "https://www.digikey.ca/product-detail/en/adam-tech/PH1-15-UA/2057-PH1-15-UA-ND/9830359" H 3850 5200 50  0001 C CNN "Digikey"
 	1    3850 5200
 	1    0    0    -1  
 $EndComp
@@ -664,6 +684,7 @@ F 0 "J3" H 5080 5292 50  0000 L CNN
 F 1 "Conn_01x15" H 5080 5201 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 5000 5250 50  0001 C CNN
 F 3 "~" H 5000 5250 50  0001 C CNN
+F 4 "https://www.digikey.ca/product-detail/en/adam-tech/PH1-15-UA/2057-PH1-15-UA-ND/9830359" H 5000 5250 50  0001 C CNN "Digikey"
 	1    5000 5250
 	1    0    0    -1  
 $EndComp
@@ -845,6 +866,7 @@ F 1 "47u" H 2085 1155 50  0000 R CNN
 F 2 "Capacitor_SMD:CP_Elec_6.3x5.4_Nichicon" H 2200 1200 50  0001 C CNN
 F 3 "~" H 2200 1200 50  0001 C CNN
 F 4 "UWT1H470MCL1GS" H 2200 1200 50  0001 C CNN "Part Number"
+F 5 "https://www.digikey.com/product-detail/en/nichicon/UWT1H470MCL1GS/493-2225-1-ND/590200" H 2200 1200 50  0001 C CNN "Digikey"
 	1    2200 1200
 	-1   0    0    -1  
 $EndComp
@@ -857,6 +879,7 @@ F 1 "47u" H 3985 1155 50  0000 R CNN
 F 2 "Capacitor_SMD:CP_Elec_6.3x5.4_Nichicon" H 4100 1200 50  0001 C CNN
 F 3 "~" H 4100 1200 50  0001 C CNN
 F 4 "UWT1H470MCL1GS" H 4100 1200 50  0001 C CNN "Part Number"
+F 5 "https://www.digikey.com/product-detail/en/nichicon/UWT1H470MCL1GS/493-2225-1-ND/590200" H 4100 1200 50  0001 C CNN "Digikey"
 	1    4100 1200
 	-1   0    0    -1  
 $EndComp
@@ -869,6 +892,7 @@ F 1 "47u" H 5785 1155 50  0000 R CNN
 F 2 "Capacitor_SMD:CP_Elec_6.3x5.4_Nichicon" H 5900 1200 50  0001 C CNN
 F 3 "~" H 5900 1200 50  0001 C CNN
 F 4 "UWT1H470MCL1GS" H 5900 1200 50  0001 C CNN "Part Number"
+F 5 "https://www.digikey.com/product-detail/en/nichicon/UWT1H470MCL1GS/493-2225-1-ND/590200" H 5900 1200 50  0001 C CNN "Digikey"
 	1    5900 1200
 	-1   0    0    -1  
 $EndComp
